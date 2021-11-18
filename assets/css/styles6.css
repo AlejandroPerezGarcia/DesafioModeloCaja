@@ -38,3 +38,6 @@ body{
     text-decoration: none;
     background-color:rgb(126, 121, 121);      
  }
+ .button-1:hover{
+    background-color: rgba(72, 168, 241, 0.638);
+ }
